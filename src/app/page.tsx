@@ -37,7 +37,7 @@ export default function Home() {
 			<div class="m-4">
 				<t class=" font-mono font-medium text-4xl"> //Top 10 Japanese Animated Series of {data.data.Page.media[0].season} {data.data.Page.media[0].seasonYear} </t>
 				<div class="p-0 m-0 inline-flex flex-wrap">
-						<Link href='https://google.com' isExternal>
+						<Link href='https://github.com/navatykhara/Japanese-Seasonal-Anime-Ranker' isExternal>
 							<Image
 								priority
 								height={32}
