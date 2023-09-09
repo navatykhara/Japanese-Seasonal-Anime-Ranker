@@ -13,8 +13,8 @@ function retrieveTopTenCurrentSeason(){
 		anime = data.data.Page.media[i]
 		console.log(anime.siteUrl)
 		tt.push(
-		<div class="m-0 p-0 bg-cover bg-center">
-			<div class="transition hover:scale-110 transition-opacity duration-1000 ease-out ">
+		<div className="m-0 p-0 bg-cover bg-center">
+			<div className="transition hover:scale-110 transition-opacity duration-1000 ease-out ">
 				<MyCard title={anime.title.romaji} cover={anime.coverImage.extraLarge} url={anime.siteUrl} />
 			</div>
 
@@ -35,20 +35,23 @@ export default function Home() {
 	return (
 		<NextUIProvider>
 			<title> Japanese Seasonal Anime Ranker </title>
-			<div class="m-4">
-				<t class=" font-mono font-medium text-4xl"> //Top 10 Japanese Animated Series of {data.data.Page.media[0].season} {data.data.Page.media[0].seasonYear} </t>
-				<div class="p-0 m-0 inline-flex flex-wrap">
-						<Link href='https://github.com/navatykhara/Japanese-Seasonal-Anime-Ranker' isExternal>
-							<Image
-								priority
-								height={32}
-								width={32}
-								src='github-mark.svg'
-								/>
-						</Link>
+			<div className="m-4">
+				<div className="flex flex-wrap ">
+					<p className="font-mono font-medium text-4xl m-1"> #Top 10 Japanese Animated Series of {data.data.Page.media[0].season} {data.data.Page.media[0].seasonYear} </p>
+					<div className="p-0 m-1">
+							<Link href='https://github.com/navatykhara/Japanese-Seasonal-Anime-Ranker' isExternal>
+								<Image
+									priority
+									height={32}
+									width={32}
+									src='github-mark.svg'
+									alt='Github'
+									/>
+							</Link>
+					</div>
 				</div>
 			</div>
-			<div class="flex flex-wrap justify-center m-10 p-10 gap-20">
+			<div className="flex flex-wrap justify-center m-10 p-10 gap-20">
 				{retrieveTopTenCurrentSeason()}
 			</div>
 			
