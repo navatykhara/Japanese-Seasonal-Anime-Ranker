@@ -42,7 +42,7 @@ npm run start
 
 Tech used: HTML, CSS, JavaScript, TypeScript, Next.js, Next UI, Node.js
 
-A data-collection method was built around the Anilist-API to gather up-to-date information on the current airing season.
+A data-collection method was built around the Anilist-API to gather up-to-date information on the current airing season. This method can be found in public/index.js. This method needs to be run manually to update the data though plans are in place to automate the procedure.
 
 A simple front-end website was constructed for  the data.
 
