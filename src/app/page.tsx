@@ -2,7 +2,7 @@
 
 import Image from 'next/image'
 import {NextUIProvider, Link} from "@nextui-org/react";
-import MyCard from './card.tsx'
+import MyCard from './card'
 import data from 'public/topten_data.json'
 
 function retrieveTopTenCurrentSeason(){
@@ -34,6 +34,7 @@ export default function Home() {
 	
 	return (
 		<NextUIProvider>
+			<title> Japanese Seasonal Anime Ranker </title>
 			<div class="m-4">
 				<t class=" font-mono font-medium text-4xl"> //Top 10 Japanese Animated Series of {data.data.Page.media[0].season} {data.data.Page.media[0].seasonYear} </t>
 				<div class="p-0 m-0 inline-flex flex-wrap">
