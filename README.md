@@ -5,6 +5,10 @@ A Japanese Animated Television Series Ranker built using [Tailwind CSS](https://
 
 The website ranks the top ten most anticipated shows in the current airing season based on Japanese Television seasonal categories. 
 
+## Demo
+
+A static version of the website can be found [here](https://japanese-seasonal-anime-ranker-9ut3.vercel.app/) for the Fall 2023 season.
+
 ## Getting Started
 
 ### Prerequisites
@@ -38,7 +42,14 @@ npm run start
 
 Tech used: HTML, CSS, JavaScript, TypeScript, Next.js, Next UI, Node.js
 
+A data-collection method was built around the Anilist-API to gather up-to-date information on the current airing season.
+
+A simple front-end website was constructed for  the data.
+
+## To-Do
+
+Deploy website onto AWS with the data collection method routinely ran every few months to update the website. 
 
 ## Lessons Learned
 
-
+This project was used to practice my front-end skills as well as serve as the basis for other cloud related practice.
