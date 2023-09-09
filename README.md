@@ -17,7 +17,11 @@ npm install npm@latest -g
 ```
 git clone https://github.com/navatykhara/Japanese-Seasonal-Anime-Ranker.git
 ```
-2. Install NPM Packages
+2. Switch to project directory
+```
+cd $(pwd)/Japanese-Seasonal-Anime-Ranker
+```
+3. Install NPM Packages
 ```
 npm install
 ```
