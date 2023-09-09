@@ -27,7 +27,7 @@ npm install
 ```
 3. Build Project
 ```
-npm build
+npm run build
 ```
 4. Run Server
 ```
