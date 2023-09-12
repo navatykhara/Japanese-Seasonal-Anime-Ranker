@@ -1,0 +1,813 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 42,
+        "perPage": 50,
+        "currentPage": 1,
+        "lastPage": 1,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 145064,
+          "title": {
+            "romaji": "Jujutsu Kaisen 2nd Season"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 6
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 166993,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
+            "color": "#5d86e4"
+          },
+          "siteUrl": "https://anilist.co/anime/145064"
+        },
+        {
+          "id": 146065,
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 3
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 104228,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146065-1hTpwsW2fQIA.jpg",
+            "color": "#e4a143"
+          },
+          "siteUrl": "https://anilist.co/anime/146065"
+        },
+        {
+          "id": 159831,
+          "title": {
+            "romaji": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 9
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 100562,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159831-TxAC0ujoLTK6.png",
+            "color": "#d6e428"
+          },
+          "siteUrl": "https://anilist.co/anime/159831"
+        },
+        {
+          "id": 163132,
+          "title": {
+            "romaji": "Horimiya: piece"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 1
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 67167,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163132-C220CO5UrTxY.jpg",
+            "color": "#e4a143"
+          },
+          "siteUrl": "https://anilist.co/anime/163132"
+        },
+        {
+          "id": 147103,
+          "title": {
+            "romaji": "Watashi no Shiawase na Kekkon"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 5
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 53959,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147103-Om2LOXlhHNAe.png",
+            "color": "#e4d6a1"
+          },
+          "siteUrl": "https://anilist.co/anime/147103"
+        },
+        {
+          "id": 159322,
+          "title": {
+            "romaji": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 8
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 52415,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
+            "color": "#4386e4"
+          },
+          "siteUrl": "https://anilist.co/anime/159322"
+        },
+        {
+          "id": 160188,
+          "title": {
+            "romaji": "Suki na Ko ga Megane wo Wasureta"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 4
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 41511,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160188-4RvYLaru3vKj.jpg",
+            "color": "#e4d693"
+          },
+          "siteUrl": "https://anilist.co/anime/160188"
+        },
+        {
+          "id": 146953,
+          "title": {
+            "romaji": "Masamune-kun no Revenge R"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 3
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 40129,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146953-80YtZNkpbhIA.jpg",
+            "color": "#e4a150"
+          },
+          "siteUrl": "https://anilist.co/anime/146953"
+        },
+        {
+          "id": 154745,
+          "title": {
+            "romaji": "Kanojo, Okarishimasu 3rd Season"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 8
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 33624,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154745-xBr65cJsL3uW.jpg",
+            "color": "#e42843"
+          },
+          "siteUrl": "https://anilist.co/anime/154745"
+        },
+        {
+          "id": 142598,
+          "title": {
+            "romaji": "Nanatsu no Maken ga Shihai Suru"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 8
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 33402,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142598-0jpRK2h0v1hd.jpg",
+            "color": "#5d93e4"
+          },
+          "siteUrl": "https://anilist.co/anime/142598"
+        },
+        {
+          "id": 131863,
+          "title": {
+            "romaji": "Liar Liar"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 8
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 32721,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131863-G7bfAMPea08v.png",
+            "color": "#a143f1"
+          },
+          "siteUrl": "https://anilist.co/anime/131863"
+        },
+        {
+          "id": 154391,
+          "title": {
+            "romaji": "Jitsu wa Ore, Saikyou Deshita?"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 2
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 31184,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154391-IEyLPkJBsMxO.jpg",
+            "color": "#0da1e4"
+          },
+          "siteUrl": "https://anilist.co/anime/154391"
+        },
+        {
+          "id": 163263,
+          "title": {
+            "romaji": "Bungou Stray Dogs 5th Season"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 12
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 30726,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163263-uz881pFAyi7P.jpg",
+            "color": "#e41aa1"
+          },
+          "siteUrl": "https://anilist.co/anime/163263"
+        },
+        {
+          "id": 162983,
+          "title": {
+            "romaji": "Undead Girl Murder Farce"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 6
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 28847,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162983-T3nZyk6sUlEj.jpg",
+            "color": "#c98650"
+          },
+          "siteUrl": "https://anilist.co/anime/162983"
+        },
+        {
+          "id": 157397,
+          "title": {
+            "romaji": "Yumemiru Danshi wa Genjitsushugisha"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 4
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 28766,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157397-L1ZUMTuxf8OK.jpg",
+            "color": "#c9f1f1"
+          },
+          "siteUrl": "https://anilist.co/anime/157397"
+        },
+        {
+          "id": 142877,
+          "title": {
+            "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 7
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 28399,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142877-wNH2KPu6LYF4.jpg",
+            "color": "#e4935d"
+          },
+          "siteUrl": "https://anilist.co/anime/142877"
+        },
+        {
+          "id": 153360,
+          "title": {
+            "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 5
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 27973,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153360-0c0Bu5xnwiSL.jpg",
+            "color": "#f1a135"
+          },
+          "siteUrl": "https://anilist.co/anime/153360"
+        },
+        {
+          "id": 155168,
+          "title": {
+            "romaji": "Hataraku Maou-sama!! 2nd Season"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 13
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 26817,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155168-x7TUG4F0HnQy.jpg",
+            "color": "#28aee4"
+          },
+          "siteUrl": "https://anilist.co/anime/155168"
+        },
+        {
+          "id": 139606,
+          "title": {
+            "romaji": "Eiyuu Kyoushitsu"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 9
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 25672,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139606-LrYkytn7fVwt.jpg",
+            "color": "#e44335"
+          },
+          "siteUrl": "https://anilist.co/anime/139606"
+        },
+        {
+          "id": 152802,
+          "title": {
+            "romaji": "Dark Gathering"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 10
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 25497,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152802-qpOnEtQDbppP.jpg",
+            "color": "#e46b5d"
+          },
+          "siteUrl": "https://anilist.co/anime/152802"
+        },
+        {
+          "id": 155730,
+          "title": {
+            "romaji": "Uchi no Kaisha no Chiisai Senpai no Hanashi"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 2
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 20795,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155730-1dE2C3K8VFdW.png",
+            "color": "#e4bb78"
+          },
+          "siteUrl": "https://anilist.co/anime/155730"
+        },
+        {
+          "id": 145140,
+          "title": {
+            "romaji": "Helck"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 12
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 20435,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145140-wLsUPyBs6jkv.jpg",
+            "color": "#e4785d"
+          },
+          "siteUrl": "https://anilist.co/anime/145140"
+        },
+        {
+          "id": 148465,
+          "title": {
+            "romaji": "Level 1 dakedo Unique Skill de Saikyou desu"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 8
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 19972,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148465-JHRudD6EbUVU.jpg",
+            "color": "#0d78fe"
+          },
+          "siteUrl": "https://anilist.co/anime/148465"
+        },
+        {
+          "id": 149883,
+          "title": {
+            "romaji": "Dekiru Neko wa Kyou mo Yuuutsu"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 8
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 18641,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149883-D2LSB7hm5bhv.png",
+            "color": "#e4bb50"
+          },
+          "siteUrl": "https://anilist.co/anime/149883"
+        },
+        {
+          "id": 160447,
+          "title": {
+            "romaji": "Temple"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 9
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 18127,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160447-we52M5P85oaJ.png",
+            "color": "#50aef1"
+          },
+          "siteUrl": "https://anilist.co/anime/160447"
+        },
+        {
+          "id": 162893,
+          "title": {
+            "romaji": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 2
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 17674,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162893-qDZDzL4jJ03c.jpg",
+            "color": "#50aee4"
+          },
+          "siteUrl": "https://anilist.co/anime/162893"
+        },
+        {
+          "id": 150972,
+          "title": {
+            "romaji": "Shiro Seijo to Kuro Bokushi"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 13
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 16280,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150972-3gNJvsyu7lwP.png",
+            "color": "#f1d6a1"
+          },
+          "siteUrl": "https://anilist.co/anime/150972"
+        },
+        {
+          "id": 155418,
+          "title": {
+            "romaji": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 7
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 16277,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155418-wLWulAHYVrE5.jpg",
+            "color": "#e48650"
+          },
+          "siteUrl": "https://anilist.co/anime/155418"
+        },
+        {
+          "id": 139435,
+          "title": {
+            "romaji": "Shinigami Bocchan to Kuro Maid 2nd Season"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 9
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 16071,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139435-7cLDzwDsRqAn.png",
+            "color": "#e4865d"
+          },
+          "siteUrl": "https://anilist.co/anime/139435"
+        },
+        {
+          "id": 156040,
+          "title": {
+            "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu."
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 7
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 15656,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156040-qWlfbAk6GJJR.png",
+            "color": "#e4865d"
+          },
+          "siteUrl": "https://anilist.co/anime/156040"
+        },
+        {
+          "id": 153339,
+          "title": {
+            "romaji": "Okashi na Tensei"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 4
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 14881,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153339-u8i4Sc28U6En.jpg",
+            "color": "#f1a15d"
+          },
+          "siteUrl": "https://anilist.co/anime/153339"
+        },
+        {
+          "id": 146836,
+          "title": {
+            "romaji": "Lv1 Maou to One Room Yuusha"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 3
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 13795,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146836-UWMpVYgMcvwk.jpg",
+            "color": "#e4ae5d"
+          },
+          "siteUrl": "https://anilist.co/anime/146836"
+        },
+        {
+          "id": 151513,
+          "title": {
+            "romaji": "Genjitsu no Yohane: SUNSHINE in the MIRROR"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 6,
+            "day": 25
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 11305,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151513-0tGiS0NC3adv.jpg",
+            "color": "#5d86e4"
+          },
+          "siteUrl": "https://anilist.co/anime/151513"
+        },
+        {
+          "id": 158530,
+          "title": {
+            "romaji": "AI no Idenshi"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 8
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 10993,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158530-CT38yZ23cabT.png",
+            "color": null
+          },
+          "siteUrl": "https://anilist.co/anime/158530"
+        },
+        {
+          "id": 155982,
+          "title": {
+            "romaji": "AYAKA"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 2
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 10570,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155982-IZNOPZyon0QI.jpg",
+            "color": "#e47835"
+          },
+          "siteUrl": "https://anilist.co/anime/155982"
+        },
+        {
+          "id": 163542,
+          "title": {
+            "romaji": "Spy Kyoushitsu 2nd season"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 13
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 9793,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163542-p2TquRJYjPty.jpg",
+            "color": null
+          },
+          "siteUrl": "https://anilist.co/anime/163542"
+        },
+        {
+          "id": 163079,
+          "title": {
+            "romaji": "Sugar Apple Fairy Tale Part 2"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 7
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 9724,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163079-DaSvbq0mdtVf.png",
+            "color": "#5de4d6"
+          },
+          "siteUrl": "https://anilist.co/anime/163079"
+        },
+        {
+          "id": 154643,
+          "title": {
+            "romaji": "SYNDUALITY Noir"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 11
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 7948,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154643-NbuhZQCxgKMj.jpg",
+            "color": "#e4a143"
+          },
+          "siteUrl": "https://anilist.co/anime/154643"
+        },
+        {
+          "id": 163205,
+          "title": {
+            "romaji": "Mononogatari 2nd Season"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 4
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 6107,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163205-s9TZY5bb99oB.png",
+            "color": "#e46b5d"
+          },
+          "siteUrl": "https://anilist.co/anime/163205"
+        },
+        {
+          "id": 163571,
+          "title": {
+            "romaji": "BanG Dream! It's MyGO!!!!!"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 6,
+            "day": 29
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 3492,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163571-nrql943puSoa.png",
+            "color": "#d6a150"
+          },
+          "siteUrl": "https://anilist.co/anime/163571"
+        },
+        {
+          "id": 150970,
+          "title": {
+            "romaji": "Cardfight!! Vanguard: will+Dress Season 3"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 8
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 698,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150970-EnW0c0Gwaa4P.png",
+            "color": "#e45050"
+          },
+          "siteUrl": "https://anilist.co/anime/150970"
+        },
+        {
+          "id": 163136,
+          "title": {
+            "romaji": "Shadowverse Flame: Seven Shadows-hen"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 8
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 657,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163136-Fk6VdfAlxjj0.jpg",
+            "color": "#e45d43"
+          },
+          "siteUrl": "https://anilist.co/anime/163136"
+        }
+      ]
+    }
+  }
+}
