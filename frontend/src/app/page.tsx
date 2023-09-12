@@ -7,8 +7,42 @@ import { useEffect, useState } from 'react';
 import MyCard from './card'
 
 const axios = require('axios');
-  
-var data = '';
+
+var data: any = {
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 42,
+        "perPage": 50,
+        "currentPage": 1,
+        "lastPage": 1,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 145064,
+          "title": {
+            "romaji": "Jujutsu Kaisen 2nd Season"
+          },
+          "startDate": {
+            "year": 2023,
+            "month": 7,
+            "day": 6
+          },
+          "season": "SUMMER",
+          "seasonYear": 2023,
+          "popularity": 166993,
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
+            "color": "#5d86e4"
+          },
+          "siteUrl": "https://anilist.co/anime/145064"
+        }]
+    }
+  }
+};
+
+
 
 function retrieveTopTenCurrentSeason(){
 	
@@ -31,30 +65,13 @@ function retrieveTopTenCurrentSeason(){
 	
 }
 
-async function getAPIData(){
-	
-	const headers = {
-		"Content-Type": "application/json",
-		Accept: "application/json",
-	};
-	  
-	const result = await axios({
-		
-		method: 'Get',
-		headers
-		
-	});
-	
-	API().get("/get", data);
-}
-
 export default function Home() {
 	
 	const [json, setJson]=useState([]);
 	const [loading, setLoading]=useState(false);
 	
 	useEffect(() => {
-		axios.get('http://localhost:9000/get').then(res =>{
+		axios.get('http://localhost:9000/get').then( (res:any) =>{
 			setJson(res.data)
 			setLoading(true)
 		})
